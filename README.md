@@ -1,2 +1,3 @@
 # prismic_example
-Demo prismic vs reactjs
+Something have to change in prismic.js
+- replace 
